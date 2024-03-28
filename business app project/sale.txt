@@ -1,0 +1,6 @@
+panadol,10,50
+panadol syr,50,9000
+nims,20,160
+disprene,20,60
+nims,20,160
+panadol,100,300

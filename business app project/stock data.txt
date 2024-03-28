@@ -1,0 +1,5 @@
+nims,260,8
+besoquin,90,3
+bazoori ,20,380
+panadol,900,3
+panadol,10000,30

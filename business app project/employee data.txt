@@ -1,0 +1,10 @@
+mahad,30,400000
+arslan,30,40000
+hamza,30,300000
+saqib,30,500000
+abdullah shah,30,25000
+rana ameen,45,6000000
+muneeb,30,420000
+ali,45,70000
+usman zahid,20,1000000
+saad,30,3000
